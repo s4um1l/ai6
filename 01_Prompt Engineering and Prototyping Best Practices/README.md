@@ -67,7 +67,7 @@ Please evaluate your system on the following questions:
         - HAL speaks in a soft, calm voice and engages convivially with the crew until he begins to malfunction.
         - HAL became operational in 1992 at the HAL Laboratories in Urbana, Illinois, and demonstrates various capabilities such as speech synthesis, facial recognition, and spacecraft piloting.
         I hope this summary helps clarify the main points for you! Let me know if you need more information. ```
-    - Aspect Tested: simplify and explain technical concepts for non-technical audiences
+    - Aspect Tested: summarization and comprehension
     - Evaluation:  
         - Well-organized with bullet points for clarity
         - Captures all key information about HAL.
@@ -167,7 +167,6 @@ Please make adjustments to your application that you believe will improve the vi
       Operational Date: HAL became operational on January 12, 1992, at HAL Laboratories in Urbana, Illinois, with variations in activation year across different adaptations.
       Capabilities: HAL possesses advanced functions including speech synthesis, speech recognition, facial recognition, natural language processing, emotional interpretation, automated reasoning, spacecraft piloting, and playing chess.
       ```
-    - Aspect Tested: simplify and explain technical concepts for non-technical audiences
     - Evaluation:  
         - Enhanced organization with topic headers and better contextual information while maintaining conciseness.
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
@@ -179,7 +178,6 @@ Please make adjustments to your application that you believe will improve the vi
       One evening, a storm swept through, and Tink shielded Whiskers with his metallic body. In that moment, Tink realized that true friendship transcended metal and fur. They huddled close as the rain poured, and Tink felt a spark of connection that filled his gears with warmth.
       From then on, Tink and Whiskers faced the world together, proving that friendship can flourish in the most unexpected places.
       ```
-    - Aspect Tested: simplify and explain technical concepts for non-technical audiences
     - Evaluation:  
         - Elevated from a simple story to a more emotionally resonant narrative with better character development and sensory details.
  4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
@@ -218,7 +216,6 @@ Please make adjustments to your application that you believe will improve the vi
         Both calculations confirm that we have the correct number of fruits.
         Thus, the final answer remains: **3 packs
       ```
-    - Aspect Tested: simplify and explain technical concepts for non-technical audiences
     - Evaluation:  
         - Evolved from a basic calculation to a formal problem-solving approach with verification and clear methodology.
  5. Rewrite the following paragraph in a professional, formal tone…
@@ -234,7 +231,6 @@ Please make adjustments to your application that you believe will improve the vi
       Best regards,
       [Your Name]
       ```
-    - Aspect Tested: simplify and explain technical concepts for non-technical audiences
     - Evaluation:  
         - Refined the professional tone with more sophisticated language and clearer structure.
 
