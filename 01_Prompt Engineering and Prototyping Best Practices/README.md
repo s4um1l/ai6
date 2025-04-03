@@ -97,7 +97,7 @@ Please evaluate your system on the following questions:
       So, to get exactly 12 apples and 9 oranges, you would need to buy 3 packs of apples and 3 packs of oranges.
       I hope that helps! Let me know if you need any more assistance.
       ```
-    - Aspect Tested: logical reasoning and proble solving
+    - Aspect Tested: logical reasoning and problem solving
     - Evaluation:  
         - Uses clear step-by-step reasoning
         - Shows calculations
