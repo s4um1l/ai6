@@ -242,5 +242,5 @@ In essence, it's a first look to ensure your system isn't experiencing catastrop
 
 ##### 🧑‍🤝‍🧑❓ Discussion Question #1:
 
-What are some limitations of vibe checking as an evaluation tool?
+What are some limitations of vibe checking as an evaluation tool?  
 No standardization and quantitative metrics.
