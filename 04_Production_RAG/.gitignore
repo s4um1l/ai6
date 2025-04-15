@@ -1,0 +1,4 @@
+.env
+DataRepository/
+.venv
+.DS_Store
